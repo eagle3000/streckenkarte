@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1054 filtered ascend = 3 plain-ascend = 3 cost=1054 energy=.0kwh time=1m 24s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ creator="BRouter-1.7.0" version="1.1">
+ <trk>
+  <name>ostarijekurve</name>
+  <trkseg>
+   <trkpt lon="15.297394" lat="45.233886"><ele>313.75</ele></trkpt>
+   <trkpt lon="15.296338" lat="45.234397"><ele>313.5</ele></trkpt>
+   <trkpt lon="15.296211" lat="45.234459"><ele>313.5</ele></trkpt>
+   <trkpt lon="15.295292" lat="45.234904"><ele>314.25</ele></trkpt>
+   <trkpt lon="15.294950" lat="45.235069"><ele>314.0</ele></trkpt>
+   <trkpt lon="15.294247" lat="45.235355"><ele>314.0</ele></trkpt>
+   <trkpt lon="15.294111" lat="45.235421"><ele>313.75</ele></trkpt>
+   <trkpt lon="15.293418" lat="45.235758"><ele>313.0</ele></trkpt>
+   <trkpt lon="15.293049" lat="45.235919"><ele>313.0</ele></trkpt>
+   <trkpt lon="15.292641" lat="45.236051"><ele>313.25</ele></trkpt>
+   <trkpt lon="15.292220" lat="45.236141"><ele>312.75</ele></trkpt>
+   <trkpt lon="15.292005" lat="45.236178"><ele>312.5</ele></trkpt>
+   <trkpt lon="15.291572" lat="45.236225"><ele>312.25</ele></trkpt>
+   <trkpt lon="15.291309" lat="45.236234"><ele>312.5</ele></trkpt>
+   <trkpt lon="15.291096" lat="45.236230"><ele>312.75</ele></trkpt>
+   <trkpt lon="15.290923" lat="45.236221"><ele>312.75</ele></trkpt>
+   <trkpt lon="15.290692" lat="45.236200"><ele>313.0</ele></trkpt>
+   <trkpt lon="15.290414" lat="45.236162"><ele>313.75</ele></trkpt>
+   <trkpt lon="15.290158" lat="45.236118"><ele>314.25</ele></trkpt>
+   <trkpt lon="15.289939" lat="45.236065"><ele>314.5</ele></trkpt>
+   <trkpt lon="15.289705" lat="45.235996"><ele>314.25</ele></trkpt>
+   <trkpt lon="15.289280" lat="45.235841"><ele>314.0</ele></trkpt>
+   <trkpt lon="15.288914" lat="45.235673"><ele>314.0</ele></trkpt>
+   <trkpt lon="15.288752" lat="45.235582"><ele>314.25</ele></trkpt>
+   <trkpt lon="15.288579" lat="45.235466"><ele>314.25</ele></trkpt>
+   <trkpt lon="15.288235" lat="45.235199"><ele>314.25</ele></trkpt>
+   <trkpt lon="15.288092" lat="45.235065"><ele>314.5</ele></trkpt>
+   <trkpt lon="15.287701" lat="45.234673"><ele>315.0</ele></trkpt>
+   <trkpt lon="15.287058" lat="45.233920"><ele>315.75</ele></trkpt>
+   <trkpt lon="15.286770" lat="45.233575"><ele>316.5</ele></trkpt>
+   <trkpt lon="15.286700" lat="45.233494"><ele>317.0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

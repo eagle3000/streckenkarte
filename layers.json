@@ -1,0 +1,20 @@
+{
+    "name": "Streckenkarte",
+    "layers": { "eisenbahn": { "color": "Black", "humanname": "Eisenbahn", "width": 3 },
+                "faehre": { "color": "ForestGreen", "humanname": "F\u00e4hre", "width": 2 },
+                "trajekt": { "color": "Yellow", "humanname": "Trajekt", "width": 2 }
+              },
+    "overlay": {
+        "tms": false,
+        "opacity": 0.5,
+        "url_template": "https://tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png"
+    },
+    "tilelayer": {
+        "tms": false,
+        "name": "Carto Dark",
+        "maxZoom": 18,
+        "minZoom": 0,
+        "attribution": "\u00a9 Carto",
+        "url_template": "https://tile.openstreetmap.de/{z}/{x}/{y}.png"
+    }
+}

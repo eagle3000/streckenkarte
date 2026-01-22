@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1374 filtered ascend = 5 plain-ascend = 6 cost=1380 energy=0.0kwh time=1m 50s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Friedrichstadt Kurve2</name>
+  <trkseg>
+   <trkpt lat="51.055493" lon="13.710541"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.055397" lon="13.710954"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.055305" lon="13.711289"><ele>113</ele></trkpt>
+   <trkpt lat="51.055198" lon="13.711621"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.054982" lon="13.712196"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.054673" lon="13.712901"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.054432" lon="13.713457"><ele>114</ele></trkpt>
+   <trkpt lat="51.054269" lon="13.71383"><ele>114</ele></trkpt>
+   <trkpt lat="51.054095" lon="13.714229"><ele>114</ele></trkpt>
+   <trkpt lat="51.053861" lon="13.714902"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.053791" lon="13.715099"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.053769" lon="13.715164"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.053688" lon="13.715399"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.053583" lon="13.71575"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.053481" lon="13.71615"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.053449" lon="13.716308"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.053366" lon="13.71674"><ele>112</ele></trkpt>
+   <trkpt lat="51.0533" lon="13.717113"><ele>112</ele></trkpt>
+   <trkpt lat="51.053298" lon="13.717132"><ele>112</ele></trkpt>
+   <trkpt lat="51.053247" lon="13.717536"><ele>112</ele></trkpt>
+   <trkpt lat="51.053211" lon="13.717827"><ele>112</ele></trkpt>
+   <trkpt lat="51.053185" lon="13.718107"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.053177" lon="13.718225"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.05317" lon="13.718517"><ele>113</ele></trkpt>
+   <trkpt lat="51.053179" lon="13.718819"><ele>113</ele></trkpt>
+   <trkpt lat="51.053203" lon="13.719159"><ele>113</ele></trkpt>
+   <trkpt lat="51.05323" lon="13.719378"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.053302" lon="13.719793"><ele>112.75</ele></trkpt>
+   <trkpt lat="51.053345" lon="13.719989"><ele>113</ele></trkpt>
+   <trkpt lat="51.053397" lon="13.720187"><ele>113</ele></trkpt>
+   <trkpt lat="51.053456" lon="13.720383"><ele>113</ele></trkpt>
+   <trkpt lat="51.053517" lon="13.720552"><ele>113</ele></trkpt>
+   <trkpt lat="51.05362" lon="13.720809"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.053691" lon="13.720958"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.053777" lon="13.721116"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.053908" lon="13.721333"><ele>114.25</ele></trkpt>
+   <trkpt lat="51.054007" lon="13.721476"><ele>114.5</ele></trkpt>
+   <trkpt lat="51.054138" lon="13.721645"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.054283" lon="13.721817"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.054555" lon="13.722102"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.055054" lon="13.722591"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.055324" lon="13.722878"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.0555" lon="13.723078"><ele>113</ele></trkpt>
+   <trkpt lat="51.05552" lon="13.723099"><ele>113</ele></trkpt>
+   <trkpt lat="51.05553" lon="13.72311"><ele>113</ele></trkpt>
+   <trkpt lat="51.05575" lon="13.723378"><ele>113</ele></trkpt>
+   <trkpt lat="51.055982" lon="13.723689"><ele>113.25</ele></trkpt>
+   <trkpt lat="51.056276" lon="13.724093"><ele>113.75</ele></trkpt>
+   <trkpt lat="51.056674" lon="13.724653"><ele>114.75</ele></trkpt>
+   <trkpt lat="51.057061" lon="13.725196"><ele>116</ele></trkpt>
+   <trkpt lat="51.057089" lon="13.725236"><ele>116</ele></trkpt>
+   <trkpt lat="51.05719" lon="13.725409"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.057351" lon="13.725667"><ele>116.5</ele></trkpt>
+   <trkpt lat="51.057565" lon="13.725995"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.057618" lon="13.726069"><ele>116.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

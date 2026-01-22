@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 8454 filtered ascend = 0 plain-ascend = 0 cost=50575 energy=0.7kwh time=51m  -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Föglö ferry</name>
+  <trkseg>
+   <trkpt lat="60.031862" lon="20.385795"><ele>1.25</ele></trkpt>
+   <trkpt lat="60.031888" lon="20.385786"><ele>1.25</ele></trkpt>
+   <trkpt lat="60.032388" lon="20.385568"><ele>0</ele></trkpt>
+   <trkpt lat="60.03264" lon="20.385029"><ele>0</ele></trkpt>
+   <trkpt lat="60.032738" lon="20.384056"><ele>0</ele></trkpt>
+   <trkpt lat="60.032357" lon="20.381227"><ele>0</ele></trkpt>
+   <trkpt lat="60.03181" lon="20.374751"><ele>0</ele></trkpt>
+   <trkpt lat="60.032021" lon="20.371017"><ele>0</ele></trkpt>
+   <trkpt lat="60.032938" lon="20.363502"><ele>0</ele></trkpt>
+   <trkpt lat="60.033623" lon="20.360905"><ele>0</ele></trkpt>
+   <trkpt lat="60.03486" lon="20.358529"><ele>0</ele></trkpt>
+   <trkpt lat="60.03563" lon="20.355675"><ele>0</ele></trkpt>
+   <trkpt lat="60.036" lon="20.351727"><ele>0</ele></trkpt>
+   <trkpt lat="60.036361" lon="20.349696"><ele>0</ele></trkpt>
+   <trkpt lat="60.036858" lon="20.348804"><ele>0</ele></trkpt>
+   <trkpt lat="60.045511" lon="20.3375"><ele>0</ele></trkpt>
+   <trkpt lat="60.05032" lon="20.331508"><ele>0</ele></trkpt>
+   <trkpt lat="60.051474" lon="20.330595"><ele>0</ele></trkpt>
+   <trkpt lat="60.054055" lon="20.328789"><ele>0</ele></trkpt>
+   <trkpt lat="60.057231" lon="20.326192"><ele>0</ele></trkpt>
+   <trkpt lat="60.05844" lon="20.324988"><ele>0</ele></trkpt>
+   <trkpt lat="60.059264" lon="20.323784"><ele>0</ele></trkpt>
+   <trkpt lat="60.060332" lon="20.321345"><ele>0</ele></trkpt>
+   <trkpt lat="60.060988" lon="20.318598"><ele>0</ele></trkpt>
+   <trkpt lat="60.061236" lon="20.316461"><ele>0</ele></trkpt>
+   <trkpt lat="60.064844" lon="20.272198"><ele>0</ele></trkpt>
+   <trkpt lat="60.065172" lon="20.27001"><ele>0</ele></trkpt>
+   <trkpt lat="60.066541" lon="20.267591"><ele>0.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 15550 filtered ascend = 0 plain-ascend = 0 cost=74307 energy=1.2kwh time=1h 33m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Üto ferry</name>
+  <trkseg>
+   <trkpt lat="58.970505" lon="18.325222"/>
+   <trkpt lat="58.971591" lon="18.327408"/>
+   <trkpt lat="58.972308" lon="18.327863"/>
+   <trkpt lat="58.975105" lon="18.324528"/>
+   <trkpt lat="58.984468" lon="18.309935"/>
+   <trkpt lat="58.986803" lon="18.306296"/>
+   <trkpt lat="58.999648" lon="18.288615"/>
+   <trkpt lat="59.010874" lon="18.266384"/>
+   <trkpt lat="59.033836" lon="18.226028"/>
+   <trkpt lat="59.037291" lon="18.220422"/>
+   <trkpt lat="59.043914" lon="18.210466"/>
+   <trkpt lat="59.049322" lon="18.205359"/>
+   <trkpt lat="59.054994" lon="18.199479"/>
+   <trkpt lat="59.063599" lon="18.185661"/>
+   <trkpt lat="59.06798" lon="18.180125"/>
+   <trkpt lat="59.074086" lon="18.177893"/>
+   <trkpt lat="59.080525" lon="18.174511"/>
+   <trkpt lat="59.082014" lon="18.173503"/>
+  </trkseg>
+ </trk>
+</gpx>

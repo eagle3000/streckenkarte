@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 8046 filtered ascend = 0 plain-ascend = 0 cost=22595 energy=0.0kwh time=1h 35m 51s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Messina -&gt; Villa San Giovanni (Trajekt)</name>
+  <trkseg>
+   <trkpt lat="38.188095" lon="15.563122"/>
+   <trkpt lat="38.190083" lon="15.562327"/>
+   <trkpt lat="38.19466" lon="15.561521"/>
+   <trkpt lat="38.196275" lon="15.561497"/>
+   <trkpt lat="38.196665" lon="15.561539"/>
+   <trkpt lat="38.1971" lon="15.56175"/>
+   <trkpt lat="38.197384" lon="15.562007"/>
+   <trkpt lat="38.200941" lon="15.56648"/>
+   <trkpt lat="38.201294" lon="15.567135"/>
+   <trkpt lat="38.201504" lon="15.567699"/>
+   <trkpt lat="38.219729" lon="15.62701"/>
+   <trkpt lat="38.219872" lon="15.627598"/>
+   <trkpt lat="38.21994" lon="15.628198"/>
+   <trkpt lat="38.21989" lon="15.628844"/>
+   <trkpt lat="38.219689" lon="15.629416"/>
+   <trkpt lat="38.219376" lon="15.629993"/>
+   <trkpt lat="38.218992" lon="15.630811"/>
+   <trkpt lat="38.217136" lon="15.632562"/>
+   <trkpt lat="38.216267" lon="15.633309"/>
+  </trkseg>
+ </trk>
+</gpx>

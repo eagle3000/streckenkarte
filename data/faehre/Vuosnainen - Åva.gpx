@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 12221 filtered ascend = 0 plain-ascend = 0 cost=58413 energy=1.0kwh time=1h 13m 23s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Vuosnainen - Åva</name>
+  <trkseg>
+   <trkpt lat="60.507412" lon="21.24737"><ele>0</ele></trkpt>
+   <trkpt lat="60.506732" lon="21.247936"><ele>0</ele></trkpt>
+   <trkpt lat="60.506513" lon="21.248104"><ele>0</ele></trkpt>
+   <trkpt lat="60.506073" lon="21.248201"><ele>0</ele></trkpt>
+   <trkpt lat="60.505719" lon="21.248052"><ele>0</ele></trkpt>
+   <trkpt lat="60.505407" lon="21.247761"><ele>0</ele></trkpt>
+   <trkpt lat="60.500314" lon="21.240672"><ele>0</ele></trkpt>
+   <trkpt lat="60.490175" lon="21.225558"><ele>0</ele></trkpt>
+   <trkpt lat="60.487497" lon="21.215745"><ele>0</ele></trkpt>
+   <trkpt lat="60.487171" lon="21.182735"><ele>0</ele></trkpt>
+   <trkpt lat="60.486355" lon="21.147073"><ele>0</ele></trkpt>
+   <trkpt lat="60.49011" lon="21.094907"><ele>0</ele></trkpt>
+   <trkpt lat="60.490567" lon="21.092123"><ele>0</ele></trkpt>
+   <trkpt lat="60.491383" lon="21.089936"><ele>0</ele></trkpt>
+   <trkpt lat="60.498859" lon="21.077209"><ele>0</ele></trkpt>
+   <trkpt lat="60.503657" lon="21.060837"><ele>0</ele></trkpt>
+   <trkpt lat="60.50328" lon="21.058243"><ele>0.75</ele></trkpt>
+   <trkpt lat="60.503286" lon="21.058253"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

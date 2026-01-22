@@ -1,0 +1,47 @@
+name: streckenkarte builder
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: codeberg.org/margau/buildenv-streckenkarte:latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+       submodules: true
+       fetch-depth: 0
+    - name: set up output directory
+      run: mkdir -p ./public/
+    - name: deploy frontend to public
+      run: cp -r homologic-streckenkarte/frontend/* public/
+    - run: bash homologic-streckenkarte/scripts/mapbuilder.sh ./ public/
+    - run: cp layers.json public/layers.json
+    - uses: actions/upload-artifact@v4
+      with:
+          path: public/
+          name: streckenkarte
+
+  publish:
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.ref == format('refs/heads/{0}', 'main') || github.ref == 'main'
+    container:
+      image: codeberg.org/margau/buildenv-rclone:latest
+    
+    steps:
+    - uses: actions/download-artifact@v4
+      with:
+        name: streckenkarte
+        path: public
+    - name: Deploy using Rsync
+      uses: burnett01/rsync-deployments@6.0.0
+      with:
+          switches: -avrh --delete
+          path: public/
+          remote_path: /var/www/virtual/${{ vars.SSH_USERNAME }}/html/karte
+          remote_host: ${{ vars.SSH_HOST }}
+          remote_user: ${{ vars.SSH_USERNAME }}
+          remote_key: ${{ secrets.SSH_PRIVATE_KEY }}

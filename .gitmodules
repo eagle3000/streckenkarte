@@ -1,0 +1,3 @@
+[submodule "homologic-streckenkarte"]
+	path = homologic-streckenkarte
+	url = https://github.com/homologic/streckenkarte

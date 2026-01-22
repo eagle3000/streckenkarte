@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 919 filtered ascend = 0 plain-ascend = 0 cost=4435 energy=0.1kwh time=5m 34s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Vartsala ferry</name>
+  <trkseg>
+   <trkpt lat="60.542574" lon="21.335972"><ele>0.75</ele></trkpt>
+   <trkpt lat="60.540976" lon="21.31955"><ele>0.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

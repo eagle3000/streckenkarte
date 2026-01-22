@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2587 filtered ascend = 4 plain-ascend = 4 cost=2587 energy=.0kwh time=3m 27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ creator="BRouter-1.7.0" version="1.1">
+ <trk>
+  <name>kurvenaundorfnord</name>
+  <trkseg>
+   <trkpt lon="13.615816" lat="51.111580"><ele>108.0</ele></trkpt>
+   <trkpt lon="13.617996" lat="51.110902"><ele>110.25</ele></trkpt>
+   <trkpt lon="13.616542" lat="51.111309"><ele>108.25</ele></trkpt>
+   <trkpt lon="13.615282" lat="51.111702"><ele>108.0</ele></trkpt>
+   <trkpt lon="13.614337" lat="51.111997"><ele>108.25</ele></trkpt>
+   <trkpt lon="13.612875" lat="51.112450"><ele>109.25</ele></trkpt>
+   <trkpt lon="13.611631" lat="51.112846"><ele>109.0</ele></trkpt>
+   <trkpt lon="13.610065" lat="51.113321"><ele>108.0</ele></trkpt>
+   <trkpt lon="13.610027" lat="51.113333"><ele>108.0</ele></trkpt>
+   <trkpt lon="13.609981" lat="51.113347"><ele>108.0</ele></trkpt>
+   <trkpt lon="13.609498" lat="51.113494"><ele>108.25</ele></trkpt>
+   <trkpt lon="13.609329" lat="51.113546"><ele>108.5</ele></trkpt>
+   <trkpt lon="13.608792" lat="51.113709"><ele>108.75</ele></trkpt>
+   <trkpt lon="13.607614" lat="51.114064"><ele>109.0</ele></trkpt>
+   <trkpt lon="13.605201" lat="51.114795"><ele>109.25</ele></trkpt>
+   <trkpt lon="13.600799" lat="51.116131"><ele>108.75</ele></trkpt>
+   <trkpt lon="13.600777" lat="51.116138"><ele>108.75</ele></trkpt>
+   <trkpt lon="13.600361" lat="51.116268"><ele>108.5</ele></trkpt>
+   <trkpt lon="13.599828" lat="51.116447"><ele>108.75</ele></trkpt>
+   <trkpt lon="13.599477" lat="51.116574"><ele>109.25</ele></trkpt>
+   <trkpt lon="13.598972" lat="51.116777"><ele>109.75</ele></trkpt>
+   <trkpt lon="13.598530" lat="51.116989"><ele>110.0</ele></trkpt>
+   <trkpt lon="13.598211" lat="51.117151"><ele>110.25</ele></trkpt>
+   <trkpt lon="13.597909" lat="51.117319"><ele>110.75</ele></trkpt>
+   <trkpt lon="13.597660" lat="51.117472"><ele>110.75</ele></trkpt>
+   <trkpt lon="13.597589" lat="51.117515"><ele>110.75</ele></trkpt>
+   <trkpt lon="13.597346" lat="51.117663"><ele>110.75</ele></trkpt>
+   <trkpt lon="13.596850" lat="51.118033"><ele>111.0</ele></trkpt>
+   <trkpt lon="13.596546" lat="51.118288"><ele>111.0</ele></trkpt>
+   <trkpt lon="13.596345" lat="51.118483"><ele>110.5</ele></trkpt>
+   <trkpt lon="13.596146" lat="51.118677"><ele>110.25</ele></trkpt>
+   <trkpt lon="13.595881" lat="51.118976"><ele>110.0</ele></trkpt>
+   <trkpt lon="13.595584" lat="51.119369"><ele>110.5</ele></trkpt>
+   <trkpt lon="13.595451" lat="51.119574"><ele>110.75</ele></trkpt>
+   <trkpt lon="13.595329" lat="51.119762"><ele>111.0</ele></trkpt>
+   <trkpt lon="13.595146" lat="51.120102"><ele>111.25</ele></trkpt>
+   <trkpt lon="13.595070" lat="51.120265"><ele>111.0</ele></trkpt>
+   <trkpt lon="13.594959" lat="51.120503"><ele>110.5</ele></trkpt>
+   <trkpt lon="13.594835" lat="51.120832"><ele>109.25</ele></trkpt>
+   <trkpt lon="13.594771" lat="51.120994"><ele>108.5</ele></trkpt>
+   <trkpt lon="13.594707" lat="51.121173"><ele>108.0</ele></trkpt>
+   <trkpt lon="13.594700" lat="51.121197"><ele>108.0</ele></trkpt>
+   <trkpt lon="13.594454" lat="51.121800"><ele>108.0</ele></trkpt>
+   <trkpt lon="13.594366" lat="51.122048"><ele>108.25</ele></trkpt>
+   <trkpt lon="13.594137" lat="51.122688"><ele>109.0</ele></trkpt>
+   <trkpt lon="13.593725" lat="51.123795"><ele>110.75</ele></trkpt>
+   <trkpt lon="13.593699" lat="51.123864"><ele>111.0</ele></trkpt>
+   <trkpt lon="13.593659" lat="51.123951"><ele>111.0</ele></trkpt>
+   <trkpt lon="13.593576" lat="51.124177"><ele>112.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

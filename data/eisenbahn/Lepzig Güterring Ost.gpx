@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2685 filtered ascend = 0 plain-ascend = -3 cost=2685 energy=0.0kwh time=3m 35s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Lepzig Güterring Ost</name>
+  <trkseg>
+   <trkpt lat="51.352501" lon="12.438087"><ele>125</ele></trkpt>
+   <trkpt lat="51.35232" lon="12.437975"><ele>125</ele></trkpt>
+   <trkpt lat="51.351806" lon="12.437632"><ele>124.25</ele></trkpt>
+   <trkpt lat="51.35109" lon="12.43709"><ele>123.5</ele></trkpt>
+   <trkpt lat="51.350936" lon="12.436978"><ele>123.25</ele></trkpt>
+   <trkpt lat="51.350702" lon="12.436809"><ele>123.5</ele></trkpt>
+   <trkpt lat="51.350375" lon="12.436576"><ele>124.5</ele></trkpt>
+   <trkpt lat="51.350013" lon="12.436386"><ele>125.25</ele></trkpt>
+   <trkpt lat="51.349692" lon="12.436148"><ele>125</ele></trkpt>
+   <trkpt lat="51.349017" lon="12.43569"><ele>124.75</ele></trkpt>
+   <trkpt lat="51.346689" lon="12.434262"><ele>125</ele></trkpt>
+   <trkpt lat="51.344566" lon="12.432946"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.344294" lon="12.432775"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.344096" lon="12.43265"><ele>122</ele></trkpt>
+   <trkpt lat="51.343946" lon="12.432557"><ele>122.75</ele></trkpt>
+   <trkpt lat="51.343707" lon="12.43241"><ele>123.5</ele></trkpt>
+   <trkpt lat="51.342729" lon="12.431809"><ele>125</ele></trkpt>
+   <trkpt lat="51.3418" lon="12.43122"><ele>124.5</ele></trkpt>
+   <trkpt lat="51.34158" lon="12.431084"><ele>124.5</ele></trkpt>
+   <trkpt lat="51.34048" lon="12.430393"><ele>124.25</ele></trkpt>
+   <trkpt lat="51.340266" lon="12.430261"><ele>123.75</ele></trkpt>
+   <trkpt lat="51.339872" lon="12.430024"><ele>123</ele></trkpt>
+   <trkpt lat="51.338006" lon="12.428857"><ele>119</ele></trkpt>
+   <trkpt lat="51.337882" lon="12.428778"><ele>119</ele></trkpt>
+   <trkpt lat="51.337467" lon="12.428513"><ele>119</ele></trkpt>
+   <trkpt lat="51.336981" lon="12.42816"><ele>119.25</ele></trkpt>
+   <trkpt lat="51.336535" lon="12.427785"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.336187" lon="12.42744"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.335931" lon="12.427169"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.335734" lon="12.426949"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.335399" lon="12.426535"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.334732" lon="12.425614"><ele>119.25</ele></trkpt>
+   <trkpt lat="51.334606" lon="12.42544"><ele>119.25</ele></trkpt>
+   <trkpt lat="51.334159" lon="12.424821"><ele>120.25</ele></trkpt>
+   <trkpt lat="51.333749" lon="12.424253"><ele>121.75</ele></trkpt>
+   <trkpt lat="51.333603" lon="12.42403"><ele>122</ele></trkpt>
+   <trkpt lat="51.333445" lon="12.423781"><ele>122</ele></trkpt>
+   <trkpt lat="51.333209" lon="12.423329"><ele>122</ele></trkpt>
+   <trkpt lat="51.333123" lon="12.423125"><ele>122</ele></trkpt>
+   <trkpt lat="51.33299" lon="12.422783"><ele>122.25</ele></trkpt>
+   <trkpt lat="51.332859" lon="12.42237"><ele>122.25</ele></trkpt>
+   <trkpt lat="51.332703" lon="12.42176"><ele>122.25</ele></trkpt>
+   <trkpt lat="51.332566" lon="12.421184"><ele>122</ele></trkpt>
+   <trkpt lat="51.332534" lon="12.421045"><ele>122</ele></trkpt>
+   <trkpt lat="51.332367" lon="12.420315"><ele>122</ele></trkpt>
+   <trkpt lat="51.332204" lon="12.419623"><ele>121.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

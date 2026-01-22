@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1645 filtered ascend = 0 plain-ascend = 0 cost=19588 energy=0.0kwh time=4m 36s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Djurgardslinje 82</name>
+  <trkseg>
+   <trkpt lat="59.324008" lon="18.094524"/>
+   <trkpt lat="59.324008" lon="18.094521"/>
+   <trkpt lat="59.324664" lon="18.090817"/>
+   <trkpt lat="59.324986" lon="18.089202"/>
+   <trkpt lat="59.323949" lon="18.090605"/>
+   <trkpt lat="59.323762" lon="18.090716"/>
+   <trkpt lat="59.322084" lon="18.091716"/>
+   <trkpt lat="59.321442" lon="18.091278"/>
+   <trkpt lat="59.321243" lon="18.089725"/>
+   <trkpt lat="59.322976" lon="18.076129"/>
+   <trkpt lat="59.322977" lon="18.076114"/>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 226158 filtered ascend = 0 plain-ascend = 0 cost=635054 energy=0.6kwh time=44h 54m 6s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Bari - Durrës (Fähre)</name>
+  <trkseg>
+   <trkpt lat="41.133324" lon="16.866652"/>
+   <trkpt lat="41.134597" lon="16.865198"/>
+   <trkpt lat="41.135008" lon="16.864459"/>
+   <trkpt lat="41.136306" lon="16.860221"/>
+   <trkpt lat="41.136661" lon="16.859749"/>
+   <trkpt lat="41.138801" lon="16.857988"/>
+   <trkpt lat="41.139049" lon="16.857799"/>
+   <trkpt lat="41.142638" lon="16.853674"/>
+   <trkpt lat="41.143158" lon="16.852958"/>
+   <trkpt lat="41.14576" lon="16.846497"/>
+   <trkpt lat="41.146564" lon="16.844862"/>
+   <trkpt lat="41.146843" lon="16.84443"/>
+   <trkpt lat="41.147145" lon="16.844097"/>
+   <trkpt lat="41.147429" lon="16.843911"/>
+   <trkpt lat="41.147734" lon="16.843815"/>
+   <trkpt lat="41.14808" lon="16.843804"/>
+   <trkpt lat="41.148417" lon="16.843874"/>
+   <trkpt lat="41.148901" lon="16.844186"/>
+   <trkpt lat="41.149513" lon="16.844666"/>
+   <trkpt lat="41.152205" lon="16.847706"/>
+   <trkpt lat="41.152641" lon="16.848528"/>
+   <trkpt lat="41.152915" lon="16.849718"/>
+   <trkpt lat="41.153033" lon="16.852335"/>
+   <trkpt lat="41.275112" lon="19.444597"/>
+   <trkpt lat="41.275538" lon="19.446915"/>
+   <trkpt lat="41.276491" lon="19.448935"/>
+   <trkpt lat="41.277875" lon="19.450453"/>
+   <trkpt lat="41.279548" lon="19.451312"/>
+   <trkpt lat="41.301357" lon="19.458398"/>
+   <trkpt lat="41.301712" lon="19.458368"/>
+   <trkpt lat="41.30205" lon="19.45818"/>
+   <trkpt lat="41.305021" lon="19.454559"/>
+   <trkpt lat="41.307446" lon="19.454024"/>
+   <trkpt lat="41.312524" lon="19.454485"/>
+   <trkpt lat="41.314293" lon="19.455395"/>
+  </trkseg>
+ </trk>
+</gpx>

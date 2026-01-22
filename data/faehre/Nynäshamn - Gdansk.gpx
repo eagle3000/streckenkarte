@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 531999 filtered ascend = 0 plain-ascend = 1 cost=5208929 energy=41.4kwh time=53h 12m 48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Nynäshamn - Gdansk</name>
+  <trkseg>
+   <trkpt lat="58.906708" lon="17.956802"><ele>5.75</ele></trkpt>
+   <trkpt lat="58.906524" lon="17.957671"><ele>6</ele></trkpt>
+   <trkpt lat="58.909023" lon="17.967362"/>
+   <trkpt lat="58.916372" lon="17.981885"/>
+   <trkpt lat="58.914776" lon="17.987628"/>
+   <trkpt lat="58.912447" lon="17.990627"/>
+   <trkpt lat="58.905981" lon="17.997152"/>
+   <trkpt lat="58.898081" lon="18.005125"/>
+   <trkpt lat="58.889787" lon="18.013809"/>
+   <trkpt lat="58.872277" lon="18.032144"/>
+   <trkpt lat="58.853326" lon="18.051989"/>
+   <trkpt lat="58.710727" lon="18.112992"/>
+   <trkpt lat="58.684739" lon="18.104206"/>
+   <trkpt lat="57.445617" lon="17.685278"/>
+   <trkpt lat="57.444672" lon="17.685273"/>
+   <trkpt lat="56.432041" lon="17.680274"/>
+   <trkpt lat="56.429412" lon="17.680761"/>
+   <trkpt lat="56.429303" lon="17.680782"/>
+   <trkpt lat="56.426655" lon="17.682083"/>
+   <trkpt lat="55.393919" lon="18.399481"/>
+   <trkpt lat="55.37317" lon="18.415332"/>
+   <trkpt lat="54.664889" lon="18.956444"/>
+   <trkpt lat="54.663865" lon="18.955613"/>
+   <trkpt lat="54.645416" lon="18.940654"/>
+   <trkpt lat="54.603223" lon="18.906444"/>
+   <trkpt lat="54.583167" lon="18.883611"/>
+   <trkpt lat="54.571134" lon="18.865517"/>
+   <trkpt lat="54.538167" lon="18.815945"/>
+   <trkpt lat="54.518667" lon="18.78025"/>
+   <trkpt lat="54.51289" lon="18.771562"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.474667" lon="18.714083"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.465133" lon="18.701777"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.447584" lon="18.674695"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.44005" lon="18.663762"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.432474" lon="18.652568"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.425455" lon="18.649006"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.423899" lon="18.649292"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.417469" lon="18.655915"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.415986" lon="18.657707"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.411686" lon="18.66045"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.408034" lon="18.662341"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.406381" lon="18.663688"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.405698" lon="18.665415"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.405365" lon="18.666362"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.405182" lon="18.667394"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.404836" lon="18.670005"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.404466" lon="18.672704"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.404381" lon="18.673639"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.404308" lon="18.674604"><ele>0.25</ele></trkpt>
+   <trkpt lat="54.404119" lon="18.676446"><ele>-0.5</ele></trkpt>
+   <trkpt lat="54.404012" lon="18.677362"><ele>-0.25</ele></trkpt>
+   <trkpt lat="54.403672" lon="18.680098"><ele>0.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

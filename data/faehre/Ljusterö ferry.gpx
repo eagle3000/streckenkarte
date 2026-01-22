@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1139 filtered ascend = 2 plain-ascend = 2 cost=5486 energy=0.1kwh time=6m 54s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Ljusterö ferry</name>
+  <trkseg>
+   <trkpt lat="59.548125" lon="18.575551"><ele>5.5</ele></trkpt>
+   <trkpt lat="59.547383" lon="18.577285"><ele>5.5</ele></trkpt>
+   <trkpt lat="59.542183" lon="18.590875"><ele>5.5</ele></trkpt>
+   <trkpt lat="59.541834" lon="18.591414"><ele>7.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 45165 filtered ascend = 3 plain-ascend = 0 cost=215980 energy=3.5kwh time=4h 31m 21s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Grisslehamn - Ekerö</name>
+  <trkseg>
+   <trkpt lat="60.098615" lon="18.815161"><ele>2.5</ele></trkpt>
+   <trkpt lat="60.098619" lon="18.815152"><ele>2.75</ele></trkpt>
+   <trkpt lat="60.095766" lon="18.824961"><ele>0</ele></trkpt>
+   <trkpt lat="60.098619" lon="18.815152"><ele>2.75</ele></trkpt>
+   <trkpt lat="60.094714" lon="18.826868"><ele>0</ele></trkpt>
+   <trkpt lat="60.093816" lon="18.854288"><ele>0</ele></trkpt>
+   <trkpt lat="60.095855" lon="18.870969"><ele>0</ele></trkpt>
+   <trkpt lat="60.149464" lon="19.309409"><ele>0</ele></trkpt>
+   <trkpt lat="60.150863" lon="19.314923"><ele>0</ele></trkpt>
+   <trkpt lat="60.169782" lon="19.395111"><ele>0</ele></trkpt>
+   <trkpt lat="60.183623" lon="19.453132"><ele>0</ele></trkpt>
+   <trkpt lat="60.185298" lon="19.458003"><ele>0</ele></trkpt>
+   <trkpt lat="60.188957" lon="19.464784"><ele>0</ele></trkpt>
+   <trkpt lat="60.205626" lon="19.495125"><ele>0</ele></trkpt>
+   <trkpt lat="60.210765" lon="19.504459"><ele>0</ele></trkpt>
+   <trkpt lat="60.21554" lon="19.512999"><ele>0</ele></trkpt>
+   <trkpt lat="60.22023" lon="19.521625"><ele>0</ele></trkpt>
+   <trkpt lat="60.226262" lon="19.532547"><ele>0</ele></trkpt>
+   <trkpt lat="60.226571" lon="19.533234"><ele>0</ele></trkpt>
+   <trkpt lat="60.225629" lon="19.535545"><ele>0.75</ele></trkpt>
+   <trkpt lat="60.225609" lon="19.535563"><ele>1.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

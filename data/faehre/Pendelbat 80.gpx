@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 6144 filtered ascend = 3 plain-ascend = 4 cost=45730 energy=0.0kwh time=17m 28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Pendelbat 80</name>
+  <trkseg>
+   <trkpt lat="59.332182" lon="18.076866"><ele>12.5</ele></trkpt>
+   <trkpt lat="59.330947" lon="18.079582"><ele>15.5</ele></trkpt>
+   <trkpt lat="59.330124" lon="18.081791"/>
+   <trkpt lat="59.327975" lon="18.08755"/>
+   <trkpt lat="59.324664" lon="18.090817"/>
+   <trkpt lat="59.324012" lon="18.094496"/>
+   <trkpt lat="59.324008" lon="18.094521"/>
+   <trkpt lat="59.322991" lon="18.09379"/>
+   <trkpt lat="59.320038" lon="18.096769"/>
+   <trkpt lat="59.318166" lon="18.10131"/>
+   <trkpt lat="59.316472" lon="18.107569"/>
+   <trkpt lat="59.315133" lon="18.110321"/>
+   <trkpt lat="59.315116" lon="18.110329"/>
+   <trkpt lat="59.315133" lon="18.110321"/>
+   <trkpt lat="59.315943" lon="18.112295"/>
+   <trkpt lat="59.316434" lon="18.116139"/>
+   <trkpt lat="59.317274" lon="18.122708"><ele>13</ele></trkpt>
+   <trkpt lat="59.317357" lon="18.123357"><ele>13</ele></trkpt>
+   <trkpt lat="59.317202" lon="18.12407"><ele>13</ele></trkpt>
+   <trkpt lat="59.316082" lon="18.124232"><ele>13</ele></trkpt>
+   <trkpt lat="59.316814" lon="18.124646"/>
+   <trkpt lat="59.316879" lon="18.125328"/>
+   <trkpt lat="59.317492" lon="18.131764"/>
+   <trkpt lat="59.317775" lon="18.134722"/>
+   <trkpt lat="59.317598" lon="18.136516"/>
+   <trkpt lat="59.31822" lon="18.13686"/>
+   <trkpt lat="59.318347" lon="18.137328"/>
+   <trkpt lat="59.319858" lon="18.142892"/>
+   <trkpt lat="59.32017" lon="18.14373"/>
+   <trkpt lat="59.320242" lon="18.14638"/>
+   <trkpt lat="59.320379" lon="18.151425"/>
+   <trkpt lat="59.320759" lon="18.151867"/>
+   <trkpt lat="59.32041" lon="18.152286"><ele>9.25</ele></trkpt>
+   <trkpt lat="59.320338" lon="18.152374"><ele>9.25</ele></trkpt>
+   <trkpt lat="59.319472" lon="18.155509"><ele>9.25</ele></trkpt>
+   <trkpt lat="59.318619" lon="18.15899"><ele>9.25</ele></trkpt>
+   <trkpt lat="59.318073" lon="18.159755"><ele>9.25</ele></trkpt>
+   <trkpt lat="59.318064" lon="18.159752"><ele>9.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
