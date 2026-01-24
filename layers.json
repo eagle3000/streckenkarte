@@ -6,12 +6,12 @@
               },
     "overlay": {
         "tms": false,
-        "opacity": 0.5,
+        "opacity": 0.8,
         "url_template": "https://tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png"
     },
     "tilelayer": {
         "tms": false,
-        "name": "Carto Dark",
+        "name": "Carto",
         "maxZoom": 18,
         "minZoom": 0,
         "attribution": "\u00a9 Carto",
