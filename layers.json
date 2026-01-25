@@ -12,7 +12,7 @@
     "tilelayer": {
         "tms": false,
         "name": "Carto",
-        "maxZoom": 18,
+        "maxZoom": 19,
         "minZoom": 0,
         "attribution": "\u00a9 Carto",
         "url_template": "https://tile.openstreetmap.de/{z}/{x}/{y}.png"
