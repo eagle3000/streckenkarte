@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1746 filtered ascend = 11 plain-ascend = 5 cost=1746 energy=0.0kwh time=2m 20s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Postoloprty Kurve</name>
+  <trkseg>
+   <trkpt lat="50.360331" lon="13.691514"><ele>210</ele></trkpt>
+   <trkpt lat="50.360462" lon="13.691765"><ele>210</ele></trkpt>
+   <trkpt lat="50.360787" lon="13.692388"><ele>210.75</ele></trkpt>
+   <trkpt lat="50.361317" lon="13.693406"><ele>211.75</ele></trkpt>
+   <trkpt lat="50.361783" lon="13.694312"><ele>211</ele></trkpt>
+   <trkpt lat="50.361807" lon="13.69436"><ele>211</ele></trkpt>
+   <trkpt lat="50.362246" lon="13.695101"><ele>211.75</ele></trkpt>
+   <trkpt lat="50.36317" lon="13.696893"><ele>208.75</ele></trkpt>
+   <trkpt lat="50.363562" lon="13.697634"><ele>204.75</ele></trkpt>
+   <trkpt lat="50.363704" lon="13.697883"><ele>202.75</ele></trkpt>
+   <trkpt lat="50.363931" lon="13.698237"><ele>199.25</ele></trkpt>
+   <trkpt lat="50.364216" lon="13.698665"><ele>196.75</ele></trkpt>
+   <trkpt lat="50.364352" lon="13.698872"><ele>196.25</ele></trkpt>
+   <trkpt lat="50.364481" lon="13.699041"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.364634" lon="13.699229"><ele>195.25</ele></trkpt>
+   <trkpt lat="50.364755" lon="13.699354"><ele>195</ele></trkpt>
+   <trkpt lat="50.364887" lon="13.699469"><ele>195</ele></trkpt>
+   <trkpt lat="50.365012" lon="13.699564"><ele>195</ele></trkpt>
+   <trkpt lat="50.365147" lon="13.69965"><ele>195.75</ele></trkpt>
+   <trkpt lat="50.365308" lon="13.699723"><ele>196.5</ele></trkpt>
+   <trkpt lat="50.365639" lon="13.69985"><ele>198.5</ele></trkpt>
+   <trkpt lat="50.365861" lon="13.699909"><ele>199.75</ele></trkpt>
+   <trkpt lat="50.366075" lon="13.699933"><ele>202</ele></trkpt>
+   <trkpt lat="50.366264" lon="13.699934"><ele>203.75</ele></trkpt>
+   <trkpt lat="50.366425" lon="13.699923"><ele>205.25</ele></trkpt>
+   <trkpt lat="50.366792" lon="13.699881"><ele>208.25</ele></trkpt>
+   <trkpt lat="50.367085" lon="13.699809"><ele>210.25</ele></trkpt>
+   <trkpt lat="50.367346" lon="13.699707"><ele>211.75</ele></trkpt>
+   <trkpt lat="50.367586" lon="13.699587"><ele>212.75</ele></trkpt>
+   <trkpt lat="50.367839" lon="13.699427"><ele>212.75</ele></trkpt>
+   <trkpt lat="50.368148" lon="13.699189"><ele>212.5</ele></trkpt>
+   <trkpt lat="50.369716" lon="13.69783"><ele>208.5</ele></trkpt>
+   <trkpt lat="50.369765" lon="13.697787"><ele>208.5</ele></trkpt>
+   <trkpt lat="50.370166" lon="13.697444"><ele>208.75</ele></trkpt>
+   <trkpt lat="50.370722" lon="13.697032"><ele>211.25</ele></trkpt>
+   <trkpt lat="50.371009" lon="13.69679"><ele>211.5</ele></trkpt>
+   <trkpt lat="50.371341" lon="13.696504"><ele>210.5</ele></trkpt>
+   <trkpt lat="50.37285" lon="13.695185"><ele>213.25</ele></trkpt>
+   <trkpt lat="50.372954" lon="13.695095"><ele>215</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
