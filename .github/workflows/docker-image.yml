@@ -39,7 +39,7 @@ jobs:
     - name: Deploy using Rsync
       uses: burnett01/rsync-deployments@v8
       with:
-          switches: -avrhO --delete
+          switches: -avrh --delete
           path: public/
           remote_path: /var/www/karte.para-craft.de/html
           remote_host: ${{ vars.SSH_HOST }}
