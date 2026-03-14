@@ -9,7 +9,7 @@ jobs:
     container:
       image: codeberg.org/margau/buildenv-streckenkarte:latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
       with:
        submodules: true
        fetch-depth: 0
@@ -19,7 +19,7 @@ jobs:
       run: cp -r homologic-streckenkarte/frontend/* public/
     - run: bash homologic-streckenkarte/scripts/mapbuilder.sh ./ public/
     - run: cp layers.json public/layers.json
-    - uses: actions/upload-artifact@v4
+    - uses: actions/upload-artifact@v7
       with:
           path: public/
           name: streckenkarte
@@ -37,7 +37,7 @@ jobs:
         name: streckenkarte
         path: public
     - name: Deploy using Rsync
-      uses: burnett01/rsync-deployments@6.0.0
+      uses: burnett01/rsync-deployments@v8
       with:
           switches: -avrh --delete
           path: public/
