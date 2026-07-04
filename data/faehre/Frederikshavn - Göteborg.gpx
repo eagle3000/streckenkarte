@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 91623 filtered ascend = 0 plain-ascend = 0 cost=257282 energy=0.2kwh time=18h 11m 27s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Frederikshavn - Göteborg</name>
+  <trkseg>
+   <trkpt lat="57.701718" lon="11.945161"><ele>1</ele></trkpt>
+   <trkpt lat="57.701716" lon="11.94514"><ele>1</ele></trkpt>
+   <trkpt lat="57.701567" lon="11.943685"><ele>1</ele></trkpt>
+   <trkpt lat="57.701503" lon="11.943062"><ele>1</ele></trkpt>
+   <trkpt lat="57.701496" lon="11.942993"><ele>1</ele></trkpt>
+   <trkpt lat="57.701439" lon="11.942433"><ele>1</ele></trkpt>
+   <trkpt lat="57.701387" lon="11.94193"><ele>1</ele></trkpt>
+   <trkpt lat="57.701997" lon="11.936191"/>
+   <trkpt lat="57.701306" lon="11.927508"/>
+   <trkpt lat="57.70047" lon="11.923491"/>
+   <trkpt lat="57.700411" lon="11.923205"/>
+   <trkpt lat="57.698026" lon="11.916757"/>
+   <trkpt lat="57.694844" lon="11.910224"/>
+   <trkpt lat="57.694181" lon="11.908703"/>
+   <trkpt lat="57.693147" lon="11.90633"/>
+   <trkpt lat="57.690862" lon="11.900725"/>
+   <trkpt lat="57.68942" lon="11.896544"/>
+   <trkpt lat="57.688761" lon="11.892066"/>
+   <trkpt lat="57.687232" lon="11.883421"/>
+   <trkpt lat="57.686469" lon="11.875969"/>
+   <trkpt lat="57.682869" lon="11.844871"/>
+   <trkpt lat="57.679903" lon="11.821065"/>
+   <trkpt lat="57.678815" lon="11.812159"/>
+   <trkpt lat="57.677323" lon="11.806157"/>
+   <trkpt lat="57.67481" lon="11.801044"/>
+   <trkpt lat="57.659478" lon="11.76985"/>
+   <trkpt lat="57.649455" lon="11.711227"/>
+   <trkpt lat="57.643915" lon="11.700226"/>
+   <trkpt lat="57.615676" lon="11.665844"/>
+   <trkpt lat="57.607862" lon="11.653654"/>
+   <trkpt lat="57.604009" lon="11.645669"/>
+   <trkpt lat="57.602445" lon="11.640004"/>
+   <trkpt lat="57.601644" lon="11.63521"/>
+   <trkpt lat="57.601295" lon="11.633113"/>
+   <trkpt lat="57.421857" lon="10.603773"/>
+   <trkpt lat="57.422392" lon="10.587288"/>
+   <trkpt lat="57.424971" lon="10.573937"/>
+   <trkpt lat="57.429388" lon="10.560702"/>
+   <trkpt lat="57.434863" lon="10.547071"/>
+   <trkpt lat="57.434879" lon="10.544574"/>
+   <trkpt lat="57.434882" lon="10.544073"/>
+   <trkpt lat="57.434889" lon="10.542956"/>
+  </trkseg>
+ </trk>
+</gpx>
