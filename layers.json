@@ -1,8 +1,8 @@
 {
     "name": "Streckenkarte",
-    "layers": { "eisenbahn": { "color": "Black", "humanname": "Eisenbahn", "width": 3 },
-                "faehre": { "color": "ForestGreen", "humanname": "F\u00e4hre", "width": 2 },
-                "trajekt": { "color": "Yellow", "humanname": "Trajekt", "width": 2 }
+    "layers": { "eisenbahn": { "color": "Red", "humanname": "Eisenbahn", "width": 4 },
+                "faehre": { "color": "ForestGreen", "humanname": "F\u00e4hre", "width": 4 },
+                "trajekt": { "color": "Yellow", "humanname": "Trajekt", "width": 4 }
               },
     "overlay": {
         "tms": false,
